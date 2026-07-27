@@ -4,12 +4,6 @@ html {
   box-sizing: border-box;
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 body {
   margin: 0 8px;
   font-weight: 300;
