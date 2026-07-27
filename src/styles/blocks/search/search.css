@@ -1,6 +1,5 @@
 .search {
   font-family: Avenir, sans-serif;
-  font-weight: 400;
   color: rgba(61, 78, 97, 1);
   line-height: 100%;
   background: rgba(255, 255, 255, 1);
@@ -12,6 +11,7 @@
 }
 
 .search--big {
+  margin-top: 20px;
   background-position: 26px center;
   background-size: 19px 19px;
   font-size: 16px;
@@ -35,8 +35,4 @@
   font-weight: 700;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
   outline: none;
-}
-
-.form {
-  margin-top: 20px;
 }
